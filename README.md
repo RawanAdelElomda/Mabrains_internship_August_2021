@@ -12,4 +12,4 @@
 
 7.**NDG linux unhatched** is done with 80% exam score
 
-8.All models(nfet) in csv file format is done
+8.**All models**(nfet) in **csv** file format is done
