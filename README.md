@@ -13,3 +13,8 @@
 7.**NDG linux unhatched** is done with 80% exam score
 
 8.**All models**(nfet) in **csv** file format is done
+
+9.**Shell Scripting** 6 modules left
+
+10.**Linux essentails** 6 modules left 
+
