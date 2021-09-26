@@ -14,7 +14,11 @@
 
 8.**All models**(nfet) in **csv** file format is done
 
-9.**Shell Scripting** 6 modules left
+9.**Shell Scripting** is done.
 
-10.**Linux essentails** 6 modules left 
+10.**Linux essentails** 6 modules left.
+
+11. **Risc-V** plan and some videos are done.
+
+12. **Bash scripting** is on progress.
 
