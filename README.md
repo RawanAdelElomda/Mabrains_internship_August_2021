@@ -16,9 +16,11 @@
 
 9.**Shell Scripting** is done.
 
-10.**Linux essentails** 6 modules left.
+10.**Linux essentails** is done.
 
-11. **Risc-V** plan and some videos are done.
+11.**Risc-V** plan and some videos are done.
 
-12. **Bash scripting** is on progress.
+12.**Bash scripting** is done.
+
+13.**Private Key** is done. 
 
